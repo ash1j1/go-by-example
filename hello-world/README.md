@@ -6,6 +6,6 @@
 
 **2. main packages and library packages**
 - a package that is named as `main` has an entry point at the `main()` function and a `main` package is compiled as an executable program
-- any other named packages is a `library package` which exports functionalities that can be used by other packages and don't have any entry points
+- a package by any other name is a `library package` which exports functionalities that can be used by other packages and don't have any entry points
 
 **3. static linked binaries** [Yet to understand clearly]
