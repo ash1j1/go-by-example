@@ -1,2 +1,2 @@
 # go-by-example
-https://gobyexample.com/
+documenting my learning journey with Go
